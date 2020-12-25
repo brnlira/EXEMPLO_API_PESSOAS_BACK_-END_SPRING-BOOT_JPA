@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nome": "Bruno",
+        "sobrenome": "Marques Lira",
+        "cpf": "XXX.XXX.XXX-XX",
+        "dataNacimento": "27/01/1991",
+        "status": "A",
+        "endereco": "Rua Paris",
+        "complemento": "Apartamento 512",
+        "numero": "123",
+        "bairro": "Perdizes",
+        "pais": "BRA",
+        "estado": "São Paulo",
+        "cidade": "São Paulo",
+        "cep": "01257-040",
+        "telefone": null,
+        "telefone2": null,
+        "celular": "+55 11 9 6919-2721",
+        "email": "brunomarqueslira@outlook.com"
+    },
+    {
+        "id": 2,
+        "nome": "Júlio Fidel",
+        "sobrenome": "Marques Silva",
+        "cpf": "XXX.XXX.XXX-XX",
+        "dataNacimento": "15/05/1996",
+        "status": "A",
+        "endereco": "Rua X",
+        "complemento": null,
+        "numero": "XYZ",
+        "bairro": "XXXXXXXX",
+        "pais": "BRA",
+        "estado": "São Paulo",
+        "cidade": "São Bernardo do Campo",
+        "cep": "XXXXXXXXX",
+        "telefone": null,
+        "telefone2": null,
+        "celular": "+55 11 9 7616-9009",
+        "email": "juliomarquesliva@outlook.com"
+    }
+]
